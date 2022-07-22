@@ -1,0 +1,573 @@
+[
+	{
+		"id": 190628413,
+		"uid": 0,
+		"job": "Создатель",
+		"date": "04.11.2020",
+		"cash": 710,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199085640672",
+		"discord": "&to&#1676",
+		"inactive": "",
+		"verified": true,
+		"access": true,
+		"notes": ""
+	},
+	{
+		"id": 572236315,
+		"uid": 1,
+		"job": "Заместитель создателя",
+		"date": "13.12.2020",
+		"cash": 30,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199026463878",
+		"discord": "Котэ#0025",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 488624280,
+		"uid": 2,
+		"job": "Куратор",
+		"date": "07.09.2021",
+		"cash": 2405,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198801980431",
+		"discord": "a13x#4144",
+		"inactive": "20.07.2022",
+		"verified": true,
+		"access": true,
+		"notes": ""
+	},
+	{
+		"id": 188848782,
+		"uid": 3,
+		"job": "Администратор",
+		"date": "16.05.2021",
+		"cash": 675,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198827387519",
+		"discord": "1tzSpark#9938",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 187857739,
+		"uid": 4,
+		"job": "Модератор",
+		"date": "29.01.2021",
+		"cash": 590,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198052162156",
+		"discord": "$ｋｏｎｉｓｔｒａ$#4704",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 565289075,
+		"uid": 5,
+		"job": "Хелпер",
+		"date": "02.05.2022",
+		"cash": -180,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199143694929",
+		"discord": "Pain666#3532",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 210429259,
+		"uid": 6,
+		"job": "Администратор",
+		"date": "09.09.2021",
+		"cash": 320,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198881134673",
+		"discord": "3au4ik#9529",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 422544591,
+		"uid": 7,
+		"job": "Модератор",
+		"date": "06.07.2021",
+		"cash": 360,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199086236300",
+		"discord": "Muslim#3312",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 591947374,
+		"uid": 8,
+		"job": "Хелпер",
+		"date": "05.06.2022",
+		"cash": 195,
+		"vigs": {
+			"count": 1,
+			"notes": [
+				"3/3 предупреждений"
+			]
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199105201711",
+		"discord": "whyhave23savage?#7474",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 582804532,
+		"uid": 9,
+		"job": "Администратор",
+		"date": "16.12.2021",
+		"cash": 1190,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199144990851",
+		"discord": "xomuk#7786",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 286699083,
+		"uid": 10,
+		"job": "Администратор",
+		"date": "14.11.2021",
+		"cash": 465,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 2,
+			"notes": [
+				"преувеличение наказания",
+				"преувеличение наказания"
+			]
+		},
+		"steamid": "76561199061956827",
+		"discord": "seckaphone#9714",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 133001866,
+		"uid": 11,
+		"job": "Администратор",
+		"date": "26.06.2021",
+		"cash": 1160,
+		"vigs": {
+			"count": 1,
+			"notes": [
+				"оск.род игрока"
+			]
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198214253113",
+		"discord": "KeNT#5878",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 302300373,
+		"uid": 12,
+		"job": "Администратор",
+		"date": "13.03.2022",
+		"cash": 815,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 2,
+			"notes": [
+				"конфликт",
+				"конфликт"
+			]
+		},
+		"steamid": "76561198330344482",
+		"discord": "аЛЕК иВГЕНИЧЬ#6327",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 450355150,
+		"uid": 13,
+		"job": "Следящий за хелперами",
+		"date": "02.10.2021",
+		"cash": 505,
+		"vigs": {
+			"count": 1,
+			"notes": [
+				"оск.игроков"
+			]
+		},
+		"preds": {
+			"count": 2,
+			"notes": [
+				"преувеличение наказания",
+				"преувеличение наказания"
+			]
+		},
+		"steamid": "76561199104216975",
+		"discord": "! wooomy#0785",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 495404350,
+		"uid": 14,
+		"job": "Модератор",
+		"date": "22.11.2021",
+		"cash": 580,
+		"vigs": {
+			"count": 2,
+			"notes": [
+				"конфликт",
+				"упом.родных"
+			]
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198828634364",
+		"discord": "Inturist#8968",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 133707297,
+		"uid": 15,
+		"job": "Модератор",
+		"date": "16.02.2022",
+		"cash": 1715,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199223369288",
+		"discord": "kpik#0871",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 280024134,
+		"uid": 16,
+		"job": "Модератор",
+		"date": "06.07.2021",
+		"cash": 1475,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 2,
+			"notes": [
+				"бан без проверки",
+				"бан без проверки"
+			]
+		},
+		"steamid": "76561198312087298",
+		"discord": "NezarOfficial#5071",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 435298945,
+		"uid": 17,
+		"job": "Модератор",
+		"date": "12.02.2022",
+		"cash": 275,
+		"vigs": {
+			"count": 0,
+			"notes": [
+				"конфликт (снят)"
+			]
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199233386880",
+		"discord": "Salyam1ツ#9883",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 547523753,
+		"uid": 18,
+		"job": "Модератор",
+		"date": "13.03.2022",
+		"cash": 265,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198965645758",
+		"discord": "FURY#3152",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 137402757,
+		"uid": 19,
+		"job": "Модератор",
+		"date": "25.03.2022",
+		"cash": 355,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198119619886",
+		"discord": "Fukatsu#9998",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 709902542,
+		"uid": 20,
+		"job": "Модератор",
+		"date": "25.03.2022",
+		"cash": 255,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199157467375",
+		"discord": "He_Dobrblu#7998",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 554567684,
+		"uid": 21,
+		"job": "Модератор",
+		"date": "03.06.2022",
+		"cash": 225,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198970971559",
+		"discord": "Superanskiy#6985",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 575173172,
+		"uid": 22,
+		"job": "Модератор",
+		"date": "03.06.2022",
+		"cash": 415,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199260704139",
+		"discord": "deSu-#0312",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 316958143,
+		"uid": 23,
+		"job": "Модератор",
+		"date": "02.06.2022",
+		"cash": 130,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198981346693",
+		"discord": "D3m0n#3497",
+		"inactive": "",
+		"verified": true,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 352234406,
+		"uid": 24,
+		"job": "Хелпер",
+		"date": "10.06.2022",
+		"cash": 165,
+		"vigs": {
+			"count": 1,
+			"notes": [
+				"конфликт"
+			]
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561198993370564",
+		"discord": "kamka#4839",
+		"inactive": "",
+		"verified": false,
+		"access": false,
+		"notes": ""
+	},
+	{
+		"id": 705593219,
+		"uid": 25,
+		"job": "Хелпер",
+		"date": "06.07.2022",
+		"cash": 330,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"steamid": "76561199230496775",
+		"discord": "unnamed#4876",
+		"inactive": "",
+		"verified": false,
+		"access": false,
+		"notes": ""
+	}
+]
