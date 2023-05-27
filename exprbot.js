@@ -413,12 +413,6 @@ msg.hear(/^(?:!статус)$/i, async (message) => {
     message.send(`✔ Бот активен`);
 });
 
-msg.hear(/^(?:!стоп)$/i, async (message) => {
-    if (!getCurrentAdm(message.senderId).access) return message.send(`⛔ Недостаточно прав для выполнения этого действия`);
-    console.log("Принудительное завершение");
-    process.exit(1);
-});
-
 function start() {
     vk.updates.start();
     console.log("Бот запущен");
