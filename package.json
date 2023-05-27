@@ -1,0 +1,19 @@
+{
+  "name": "exprbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exprbot.js",
+  "scripts": {
+    "start": "node exprbot.js"
+  },
+  "author": "a13x",
+  "license": "ISC",
+  "dependencies": {
+    "@vk-io/hear": "^1.1.0",
+    "moment": "^2.29.4",
+    "mysql-await": "^2.2.2",
+    "steamapi": "^2.2.0",
+    "steamid": "^2.0.0",
+    "vk-io": "^4.6.0"
+  }
+}

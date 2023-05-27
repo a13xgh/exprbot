@@ -1,0 +1,27 @@
+[
+	{
+		"id": "int: vk id",
+		"uid": "int: user id",
+		"gcmsid": "int: gamecms user id",
+		"job": "",
+		"date": "01.01.2000",
+		"cash": 0,
+		"vigs": {
+			"count": 0,
+			"notes": []
+		},
+		"preds": {
+			"count": 0,
+			"notes": []
+		},
+		"offbans": 0,
+		"steamid": "text: user steam id",
+		"discord": "text: discord user tag",
+		"inactive": "",
+		"specadm": false,
+		"verified": false,
+		"access": false,
+		"notes": "",
+		"bans": 0
+	}
+]

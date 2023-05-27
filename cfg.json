@@ -1,0 +1,26 @@
+{
+	"steamToken": "your steam api token",
+	"vkTokenProd": "vk token production group",
+	"vkTokenDev": "vk token dev group",
+	"startTime": 0,
+	"endTime": 0,
+	"endWeek": 0,
+	"adminsChatId": 0,
+	"headAdminsChatId": 0,
+	"adminwatchAndBansDB": {
+		"connectionLimit": 5,
+		"host": "ip",
+		"user": "user",
+		"password": "pass",
+		"database": "database",
+		"throwErrors": true
+	},
+	"gamecmsDB": {
+		"connectionLimit": 5,
+		"host": "ip",
+		"user": "user",
+		"password": "pass",
+		"database": "database",
+		"throwErrors": true
+	}
+}
